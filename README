@@ -1,0 +1,11 @@
+UPS
+===
+
+UPS API Integration
+Used by e-commerce site to integrate shipping with UPS. In order for this to work the following fields must be set:
+  $access
+  $userid
+  $passwd
+  $accountnum
+
+Also must have all of the wsdl & xsd files installed. These are provided by UPS when registered as a developer account.
